@@ -1,0 +1,10 @@
+{
+  "name": "lift-upload",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "serverless-lift": "github:t-richard/lift#upload-construct"
+  },
+  "author": "Thibault Richard",
+  "license": "MIT"
+}
