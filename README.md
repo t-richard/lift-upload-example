@@ -5,6 +5,7 @@ This is related to the following [Lift PR](https://github.com/getlift/lift/pull/
 To test this, run this command
 
 ```bash
+npm install
 serverless deploy
 ```
 
